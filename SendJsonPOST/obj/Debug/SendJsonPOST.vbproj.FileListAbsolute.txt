@@ -1,0 +1,14 @@
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\bin\Debug\SendJsonPOST.exe.config
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\bin\Debug\SendJsonPOST.exe
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\bin\Debug\SendJsonPOST.pdb
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\bin\Debug\SendJsonPOST.xml
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.vbprojAssemblyReference.cache
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.Resources.resources
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.vbproj.GenerateResource.cache
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.vbproj.CoreCompileInputs.cache
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.exe
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.xml
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.pdb
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.vbproj.CopyComplete
+C:\Users\Guerine\source\repos\SendJsonPOST\SendJsonPOST\obj\Debug\SendJsonPOST.TelaPrincipal.resources
